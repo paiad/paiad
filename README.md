@@ -1,14 +1,7 @@
-# Welcome to My GitHub Profile! 👋
+# 🚀Welcome to AD's GitHub
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21CEF7&width=435&lines=Hey%2CI'm+Paiad.Welcome+to+my+Github.)](https://git.io/typing-svg)
 
-## 💡 About Me
-Hi, I’m **Paiad**, a tech enthusiast, blogger, and lifelong learner. I’m passionate about combining technology with creativity to solve real-world problems. My journey is driven by curiosity, and I strive to stay on the cutting edge of innovation.
-
-- 🚀 Exploring **AI**, **Software Development**, and **Network Technologies**.
-- 🌱 Continuously learning and expanding my knowledge in **Full-stack Development** and **Cybersecurity**.
-- ✍️ I share my insights and experiences on my [blog](https://paiad.online/).
-
-## 🌟 Annual Ring of My GitHub Contributions
-Here’s a visual representation of my contributions over the past year:
+## 🌟 Trajectory of My GitHub Contributions
 
 ![Annual Ring](https://github.com/Pai3141/Pai3141/blob/output/github-contribution-grid-snake-dark.svg)
 
