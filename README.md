@@ -1,4 +1,4 @@
-# 🚀Welcome to AD's GitHub
+# 🚀Welcome to Paiad's GitHub
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21CEF7&width=435&lines=Hey%2CI'm+Paiad.Welcome+to+my+Github.)](https://git.io/typing-svg)
 
 ## 🌟 Trajectory of My GitHub Contributions
