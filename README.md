@@ -1,16 +1,14 @@
-# 🚀Welcome to Paiad's GitHub
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21CEF7&width=435&lines=Hey%2CI'm+Paiad.Welcome+to+my+Github.)](https://git.io/typing-svg)
+# 🚀 Welcome to Paiad's GitHub
 
-## 🌟 Trajectory of My GitHub Contributions
+<div align="center">
 
-![Annual Ring](https://github.com/Pai3141/Pai3141/blob/output/github-contribution-grid-snake-dark.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21CEF7&width=500&lines=Hi%2C+I'm+Paiad%2C+welcome+to+my+GitHub!;Welcome+to+my+blog%3A+https://blog.paiad.top)](https://git.io/typing-svg)
 
-<!--
-![3D](https://github.com/Pai3141/Pai3141/blob/main/profile-3d-contrib/profile-night-green.svg)-->
+</div>
 
-<!--
-## 📊 My GitHub Stats
 
-![Pai3141's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pai3141&show_icons=true&count_private=true&hide=prs&theme=radical)
 
--->
+## 📈 GitHub Contributions
+<p align="center">
+  <img src="https://github.com/Pai3141/Pai3141/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
