@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://blog.paiad.top" target="_blank" rel="noopener noreferrer">
-    <strong>✨ Visit My Blog ✨</strong>
+    <strong>✨ This is My Blog. ✨</strong>
   </a>
 </p>
 
