@@ -11,5 +11,5 @@
 
 ## 🌈 About Me
 <p align="center">
-  <img src="https://github.com/Pai3141/Pai3141/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/Pai3141/Pai3141/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
