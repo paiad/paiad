@@ -14,18 +14,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="./assets/pixel-terminal.svg" alt="Pixel terminal intro" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=matrix&logoColor=white" alt="MATLAB" />
-</div>
-
 <br />
 
 <div align="center">
