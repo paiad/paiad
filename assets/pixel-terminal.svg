@@ -1,0 +1,14 @@
+<svg width="760" height="180" viewBox="0 0 760 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Paiad pixel terminal</title>
+  <desc id="desc">A macOS style terminal window with Paiad profile commands.</desc>
+  <rect x="1.5" y="1.5" width="757" height="177" rx="10" fill="#172033" stroke="#243145" stroke-width="3"/>
+  <rect x="1.5" y="1.5" width="757" height="34" rx="10" fill="#E8F0F8" stroke="#243145" stroke-width="3"/>
+  <path d="M3 28H757" stroke="#243145" stroke-width="3"/>
+  <circle cx="24" cy="18" r="7" fill="#FF5F57" stroke="#243145" stroke-width="2"/>
+  <circle cx="48" cy="18" r="7" fill="#FFBD2E" stroke="#243145" stroke-width="2"/>
+  <circle cx="72" cy="18" r="7" fill="#28C840" stroke="#243145" stroke-width="2"/>
+  <text x="380" y="23" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#536273">paiad@github:~</text>
+  <text x="32" y="72" font-family="Menlo, Consolas, monospace" font-size="18" fill="#7EE7B1">&gt; boot profile</text>
+  <text x="32" y="108" font-family="Menlo, Consolas, monospace" font-size="18" fill="#C7F7E1">&gt; connect blog: https://blog.paiad.top</text>
+  <text x="32" y="144" font-family="Menlo, Consolas, monospace" font-size="18" fill="#FFD166">&gt; status: exploring code, systems, and ideas</text>
+</svg>

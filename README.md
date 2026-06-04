@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://blog.paiad.top/avatar.jpg" width="120" alt="Paiad avatar" />
+  <img src="./assets/avatar-circle.png" width="120" alt="Paiad avatar" />
 
   <h1>Paiad's Pixel Terminal</h1>
 
@@ -14,11 +14,9 @@
   </a>
 </div>
 
-```console
-> boot profile
-> connect blog: https://blog.paiad.top
-> status: exploring code, systems, and ideas
-```
+<div align="center">
+  <img src="./assets/pixel-terminal.svg" alt="Pixel terminal intro" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
