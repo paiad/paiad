@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/pixel-wave.svg" width="96" alt="Pixel waving avatar" />
+  <img src="https://blog.paiad.top/avatar.jpg" width="120" alt="Paiad avatar" />
 
   <h1>Paiad's Pixel Terminal</h1>
 
