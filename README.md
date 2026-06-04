@@ -1,19 +1,35 @@
-<h1 align="center">🚀 Welcome to Paiad's GitHub</h1>
 <div align="center">
+  <img src="./assets/pixel-wave.svg" width="96" alt="Pixel waving avatar" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21CEF7&width=635&lines=Hi%2C+I+am+Paiad%2C+from+Firmiana+%2C+Welcome+to+my+GitHub!;Welcome+to+visit+my+blog%3A+https://blog.paiad.top)](https://git.io/typing-svg)
+  <h1>Paiad's Pixel Terminal</h1>
 
-<p align="center">
+  <p>
+    <code>paiad@github:~$ ./hello.sh</code>
+  </p>
+
+  <p>Building, learning, and writing from Firmiana.</p>
+
   <a href="https://blog.paiad.top" target="_blank" rel="noopener noreferrer">
-    <strong>✨ This is My Blog. ✨</strong>
+    <img src="https://img.shields.io/badge/Blog-blog.paiad.top-2B90D9?style=for-the-badge&logo=rss&logoColor=white" alt="Paiad Blog" />
   </a>
-</p>
+</div>
 
-## 🌈 About Me
-<p align="center">
-  <img src="https://github.com/paiad/paiad/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+```console
+> boot profile
+> connect blog: https://blog.paiad.top
+> status: exploring code, systems, and ideas
+```
 
-<p align="center">
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=matrix&logoColor=white" alt="MATLAB" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="/github-metrics.svg" alt="GitHub Metrics" />
-</p>
+</div>
