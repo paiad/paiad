@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/avatar-circle.png" width="120" alt="Paiad avatar" />
 
-  <h1>Paiad's Pixel Terminal</h1>
+  <h1>Paiad's WorkSpace</h1>
 
   <p>
     <code>paiad@github:~$ ./hello.sh</code>
