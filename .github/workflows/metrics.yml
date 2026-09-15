@@ -17,7 +17,10 @@ jobs:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          # GitHub creates this short-lived token for every run.  It already
+          # has the `contents: write` permission declared above, so the
+          # generated SVG can be committed without a separately managed PAT.
+          token: ${{ github.token }}
           user: ${{ github.repository_owner }}
           filename: github-metrics.svg
           committer_branch: main
